@@ -123,8 +123,7 @@ ecotrack/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Tushar-Mittal-09/Eco-Track-Website.git
-cd Eco-Track-Website
+git clone https://github.com/VishalMalik002/Eco-Track-Website.git
 ```
 
 ### 2. Backend Setup
